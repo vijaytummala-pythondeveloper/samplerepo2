@@ -345,4 +345,10 @@ This documentation is for an SDK in developer preview release\. The SDK is subje
 
 ------
 
-For a complete list of AWS SDK developer guides and code examples, see [Using Amazon SNS with an AWS SDK](sdk-general-information-section.md)\. This topic also includes information about getting started and details about previous SDK versions\.
+For a complete list of AWS SDK developer guides and code examples, see [Using Amazon SNS with an AWS SDK](sdk-general-information-section.md)\. 
+This topic also includes information about getting started and details about previous SDK versions\.
+
+
+
+def functionvijay():
+    print("sudo")
